@@ -1,0 +1,4 @@
+#Stack Navigation:
+npm install @react-navigation/stack
+#es Lint:
+npm i @react-native/eslint-config
